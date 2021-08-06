@@ -593,6 +593,10 @@ textarea, label {
   height: 200px;
   width: 250px;
 }
+
+.test{
+  left: 1025.444px;
+}
 .about-author .author-desc p {
   color: #1e2530;
   font-family: "Open Sans", sans-serif;
