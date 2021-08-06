@@ -590,7 +590,8 @@ textarea, label {
 }
 .about-author .author-thumb img {
   border: 2px solid #1e2530;
-  width: 145px;
+  height: 200px;
+  width: 250px;
 }
 .about-author .author-desc p {
   color: #1e2530;
