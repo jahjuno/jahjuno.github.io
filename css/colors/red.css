@@ -17,11 +17,11 @@
 .hexagon-item:hover .hex-item div::after,
 .progress .bar,
 .contact-social li:hover span {
-  background-color: #FA6862;
+  background-color: #096666;
 }
 
 .nicescroll-cursors {
-  background: #FA6862 !important;
+  background: #096666 !important;
 }
 
 /* color */
@@ -30,30 +30,30 @@
 .filter .active,
 .works-item h4,
 .msg-success {
-  color: #FA6862;
+  color: #096666;
 }
 
 /* border color */
 .testimonials .owl-dot.active {
-  border-color: #FA6862;
+  border-color: #096666;
 }
 
 /* border top color */
 .site-wrapper,
 .contact-social li:hover span::after,
 .contact-social-hex:hover::before {
-  border-top-color: #FA6862;
+  border-top-color: #096666;
 }
 
 /* border bottom color */
 .filter .active,
 .contact-social li:hover span::before,
 .contact-social-hex:hover::after {
-  border-bottom-color: #FA6862;
+  border-bottom-color: #096666;
 }
 
 /* fill color */
 .service-hex:hover .fill,
 .service-hex:hover .st1 {
-  fill: #FA6862;
+  fill: #096666;
 }
